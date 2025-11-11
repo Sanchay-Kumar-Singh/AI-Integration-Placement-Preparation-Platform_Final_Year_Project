@@ -6,7 +6,7 @@ const Programming = () => {
     { name: "C++", href: "cpp" },
     { name: "Java", href: "java" },
     { name: "Python", href: "python" },
-    { name: "Fullstack", href: "fullstack" },
+    { name: "DSA", href: "dsa" },
   ]
   return (
     <div>

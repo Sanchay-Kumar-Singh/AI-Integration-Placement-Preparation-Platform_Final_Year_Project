@@ -4,7 +4,6 @@ import Prince from '../assets/Prince.jpg'
 import { motion } from "framer-motion";
 import photo from '../assets/Screenshot 2025-11-10 184220.png'
 import { useClerk, UserButton, useUser } from '@clerk/clerk-react';
-import essential from '../assets/Gemini_Generated_Image_c1k8z6c1k8z6c1k8.png'
 import essent from '../assets/Gemini_Generated_Image_gb4x15gb4x15gb4x.png'
 
 const Home = () => {
